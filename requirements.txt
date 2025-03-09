@@ -1,0 +1,5 @@
+fastapi[standard]
+sqlalchemy[asyncio]
+alembic
+asyncpg
+pre-commit
